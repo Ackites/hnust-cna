@@ -21,7 +21,7 @@ nsis:
   allowToChangeInstallationDirectory: true
   allowElevation: true
   createStartMenuShortcut: true
-  artifactName: 科大校园网小助手-${version}-setup.${ext}
+  artifactName: HnustCna-${version}-setup.${ext}
   shortcutName: ${productName}
   uninstallDisplayName: ${productName}
   createDesktopShortcut: always
