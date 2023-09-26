@@ -24,9 +24,9 @@
 
 ### 截图展示
 
-![home](./docs/images/home.png)
-![update](./docs/images/update.png)
-![setting](./docs/images/setting.png)
+<img width="250" src="./docs/images/home.png" alt="home">
+<img width="250" src="./docs/images/update.png" alt="update">
+<img width="250" src="./docs/images/setting.png" alt="setting">
 
 ## 注意
 
